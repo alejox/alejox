@@ -30,6 +30,8 @@ advertising campaigns*
 campaigns, 2D animation, video editing and printing
 works*
 
+<figure><embed src="https://wakatime.com/share/@3a5ce441-dacf-42e8-8ffc-558785f1dfde/7eaa7df4-19a6-4d6a-a7dc-d2846fe0348f.svg"></embed></figure>
+
 
 ### 👨‍💻 **PERSONAL**
 
