@@ -31,7 +31,7 @@ campaigns, 2D animation, video editing and printing
 works*
 
 
-![Alejox GitHub stats](https://wakatime.com/share/@3a5ce441-dacf-42e8-8ffc-558785f1dfde/57d7261d-8bd5-4ed6-a87b-1d60702a1725.svg)
+![Alejox GitHub stats](https://wakatime.com/share/@3a5ce441-dacf-42e8-8ffc-558785f1dfde/1b136b66-33bc-4068-910d-6cdaf37829ce.svg)
 
 
 ### 👨‍💻 **PERSONAL**
