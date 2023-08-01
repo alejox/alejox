@@ -30,7 +30,8 @@ advertising campaigns*
 campaigns, 2D animation, video editing and printing
 works*
 
-<figure><embed src="https://wakatime.com/share/@3a5ce441-dacf-42e8-8ffc-558785f1dfde/7eaa7df4-19a6-4d6a-a7dc-d2846fe0348f.svg"></embed></figure>
+
+![Alejox GitHub stats]([https://github-readme-stats.vercel.app/api?username=alejox&show_icons=true&theme=tokyonight](https://wakatime.com/share/@3a5ce441-dacf-42e8-8ffc-558785f1dfde/0d3aa72c-69d6-4741-a308-ec64f3f60294.svg)
 
 
 ### 👨‍💻 **PERSONAL**
